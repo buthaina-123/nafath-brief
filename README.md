@@ -46,7 +46,6 @@ Example: Misconception in My Track (Software Engineering)
 • How to reframe it: Good engineering anticipates change rather than freezing code in time.
 
 Example: Open Question
-
 • The Open Question: "What core assumptions about our system architecture might fail if our user traffic scales tenfold overnight?"
 • Why it works: It cannot be answered with a simple "yes" or "no," forces the team to identify hidden bottlenecks, and surfaces actual technical risks.
 
