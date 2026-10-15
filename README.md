@@ -54,7 +54,6 @@ If you are experiencing a live cyber incident, need to report cybercrime, or are
 • United Kingdom (The Cyber Helpline): Individuals and families facing online threats can access free, confidential 1:1 specialist technical guidance and recovery steps via The Cyber Helpline.
 Depending on the technical context you are referring to, "Data Resource line" typically points to one of three concepts: data lineage, physical data lines, or specific data formatting lines within IT infrastructure.
 
-
 • The Misconception: "Writing clean code means a program will never need to be rewritten or refactored."
 • Why it is false: Requirements change, user bases grow, and tech stacks evolve. Clean code makes changes easier and safer, not static or permanent.
 • How to reframe it: Good engineering anticipates change rather than freezing code in time.
