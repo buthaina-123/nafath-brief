@@ -38,8 +38,21 @@ Software
 • Resource: iOS & Android Developers, UI/UX Designers, Mobile Testing Device Labs, cross-platform frameworks (Flutter/React Native), and App Store Deployment Pipelines (Apple App Store / Google Play Console).
 • The Fuel for AI: High-volume, clean, and standardized data is the primary prerequisite for training accurate machine learning models and fueling real-time .
 A misconception in your track (such as software development, data science, or academic research) is a persistent, plausible-sounding error in logic, skill, or role expectation. An open question is a broad, non-yes/no inquiry designed to probe deeper thinking, uncover hidden assumptions, or spark further investigation.
+Computer networking connects devices, systems, and people to share data, hardware, and internet resources.
+ Components
+• Hardware Devices: Routers, switches, hubs, access points, modems, and network interface cards (NICs) manage and direct traffic.
+• Transmission Media: Physical cables (copper, fiber-optic) or wireless channels (radio, Wi-Fi) carry the data.
+• Protocols: Rules like TCP/IP, HTTP, and DNS ensure devices from different makers can communicate.
+• Addressing: Unique identifiers like IP addresses and MAC addresses route data to the right destination.
+Example: Misconception in My Track (Software Engineering .
+If you are experiencing a live cyber incident, need to report cybercrime, or are looking for professional cybersecurity support, several free dedicated helplines and resource centers are available depending on your location and situation.
 
-Example: Misconception in My Track (Software Engineering)
+🚨 Emergency Response & Incident Reporting
+
+• United States (CISA): You can report cyber issues 24/7 directly to the Cybersecurity and Infrastructure Security Agency (CISA) by emailing report@cisa.gov or calling 1-844-Say-CISA (1-844-729-2472).
+• India (National Cybercrime Helpline): If you are a victim of online fraud or cybercrime, dial the official 24/7 toll-free helpline at 1930 or file a report online via the National Cyber Crime Reporting Portal.
+• United Kingdom (The Cyber Helpline): Individuals and families facing online threats can access free, confidential 1:1 specialist technical guidance and recovery steps via The Cyber Helpline.
+Depending on the technical context you are referring to, "Data Resource line" typically points to one of three concepts: data lineage, physical data lines, or specific data formatting lines within IT infrastructure.
 
 • The Misconception: "Writing clean code means a program will never need to be rewritten or refactored."
 • Why it is false: Requirements change, user bases grow, and tech stacks evolve. Clean code makes changes easier and safer, not static or permanent.
