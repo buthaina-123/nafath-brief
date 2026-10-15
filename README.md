@@ -18,6 +18,7 @@ the Overview:An overview of software, artificial intelligence (AI), mobile netwo
 • AI in Security: Artificial intelligence automates threat detection, establishes real-time behavioral baselines, and accelerates incident response (shortening breach lifecycles). However, bad actors also weaponize AI to craft sophisticated, automated attacks.
 Networking is the art of connecting devices, systems, and people. From local area networks (LANs) to wide area networks (WANs), and from Wi-Fi to the internet, networking has changed the way we communicate. a security protocol that encrypts the requests your device makes to find website addresses.
 • Layers of Defense: Spans cloud security, endpoint protection, identity and access management (IAM), and application security.
+
    Networking
 • Resource: Cisco Networking Academy / CompTIA Network+ Study Guide
 Cybersecurity
